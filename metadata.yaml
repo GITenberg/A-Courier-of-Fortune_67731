@@ -1,0 +1,30 @@
+_repo: A-Courier-of-Fortune_67731
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marchmont, Arthur W.
+    alias: Marchmont, Arthur Williams
+    birthdate: 1852
+    deathdate: 1923
+    gutenberg_agent_id: '37728'
+    url: http://www.gutenberg.org/2009/agents/37728
+description: ''
+gutenberg_issued: '2022-03-29'
+identifiers:
+  gutenberg: '67731'
+language: en
+pgterms:marc904: https://archive.org/details/courieroffortune00marciala
+pgterms:marc905: 20181209102705marchmont
+pgterms:marc906: '1904'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :A. L. Burt Company,1904.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Courier of Fortune
+url: http://www.gutenberg.org/ebooks/67731
